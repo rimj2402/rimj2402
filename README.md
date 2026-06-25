@@ -82,7 +82,7 @@ Passionate about building intelligent systems, solving challenging problems, and
 
 # 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://portfolio-two-khaki-dbxmbno0qu.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-khaki-dbxmbno0qu.vercel.app/)
 
 ---
 
